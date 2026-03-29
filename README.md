@@ -74,7 +74,7 @@ To strengthen SQL fundamentals and apply them to real-world analytics scenarios 
 
 ## 🚀 Author
 
-**Siri**
+**Korupolu Siri**
 
 ---
 
